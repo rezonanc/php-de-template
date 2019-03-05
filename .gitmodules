@@ -1,0 +1,6 @@
+[submodule "devenv/devilbox"]
+	path = devenv/devilbox
+	url = https://github.com/cytopia/devilbox
+[submodule "devenv/laradock"]
+	path = devenv/laradock
+	url = https://github.com/laradock/laradock
